@@ -1,0 +1,10 @@
+Scenarios to verify blazedemo flight booking website
+
+ 1. Verify available cities in departure dropdwon
+ 2. Verify available cities in destination dropdown
+ 3. Verify Welcome text on BlazeDemoWebsite
+ 4. Verify number of airlines available for selected depart and destination cities
+ 5. Verify all the fields are visible on the form e.g. Name,Address etc
+ 6. Verify customer submitting booking for selected airline and respective cities
+ 
+ 
